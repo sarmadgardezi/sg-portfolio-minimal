@@ -6,7 +6,7 @@ Portfolio Minimal is a Gatsby Theme. You can install it as a dependency in your 
 
 **Example Project on GitHub**
 
-This repository also contains an [example-site](https://github.com/sarmadgardezi/sg-portfolio-minimal/tree/main/example-site) that shows how the theme integrates into a Gatsby site.
+This repository also contains an [example-site](https://sarmadgardezi.com) that shows how the theme integrates into a Gatsby site.
 
 ---
 
@@ -428,4 +428,4 @@ Thanks a lot for using this starter! 💪
 
 <a href="https://www.buymeacoffee.com/sarmadgardezi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-Konstantin Münster – [sarmadgardezi.com](https://sarmadgardezi.com)
+Sarmad Gardezi – [sarmadgardezi.com](https://sarmadgardezi.com)
