@@ -1,0 +1,40 @@
+{
+    "siteMetadata": {
+        "language": "en",
+        "siteUrl": "https://sarmadgardezi.com",
+        "title": "Sarmad Gardezi",
+        "titleTemplate": "%s · Sarmad Gardezi",
+        "description": "",
+        "author": "Sarmad Gardezi",
+        "avatar": "",
+        "bio": "",
+        "social": {
+            "behance": "https://behance.com",
+            "github": "",
+            "medium": "",
+            "linkedin": "",
+            "mail": "mailto:mail@sarmadgardezi.com"
+        }
+    },
+    "siteConfiguration": {
+        "logo": { "text": "" },
+        "navigation": {
+            "header": [
+                { "label": "About", "url": "/#about" },
+                { "label": "Blog", "url": "/blog" },
+                { "label": "Features", "url": "/#features" },
+                { "label": "Github", "url": "/#github" }
+            ],
+            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume.pdf" },
+            "footer": [
+                { "label": "Privacy", "url": "/privacy" },
+                { "label": "Imprint", "url": "/imprint" }
+            ]
+        },
+        "featureToggles": {
+            "useDarkModeAsDefault": false,
+            "useDarkModeBasedOnUsersPreference": true,
+            "useCookieBar": false
+        }
+    }
+}
